@@ -1,0 +1,17 @@
+*{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.container{
+    width: 90%;
+    background-color: rgb(250, 250, 250);
+    margin: 0 auto;
+    padding: 50px;
+}
+
+.container__flex{
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
